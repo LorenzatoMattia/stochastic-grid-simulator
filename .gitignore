@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Caches
+.npm
+.yarn-cache
+.vuepress/cache
+.parcel-cache
+
+# Environments
+.env
+.env*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build output
+dist/
+build/
+out/
+
+# For macOS
+.DS_Store
