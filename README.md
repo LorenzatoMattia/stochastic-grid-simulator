@@ -1,5 +1,4 @@
 # Stochastic Grid Simulator
-A cellular automaton that simulates the emergent spread and extinction (of fire) across a grid. Driven entirely by local probabilistic rules.
 
 <br>
 
@@ -13,6 +12,8 @@ A cellular automaton that simulates the emergent spread and extinction (of fire)
   <a href="https://vitejs.dev/">
     <img src="https://img.shields.io/badge/Vite-%E2%9A%A1-646cff?logo=vite" alt="Vite"></a>
 </p>
+
+A cellular automaton that simulates the emergent spread and extinction (of fire) across a grid. Driven entirely by local probabilistic rules.
 
 **[→ Try the live demo here!](https://lorenzatomattia.github.io/stochastic-grid-simulator/)**
 
