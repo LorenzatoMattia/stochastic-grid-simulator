@@ -1,11 +1,18 @@
 # Stochastic Grid Simulator
+A cellular automaton that simulates the emergent spread and extinction (of fire) across a grid. Driven entirely by local probabilistic rules.
 
-> A cellular automaton that simulates the emergent spread and extinction (of fire?) across a grid. Driven entirely by local probabilistic rules.
+<br>
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=flat-square)](https://lorenzatomattia.github.io/stochastic-grid-simulator/)
-[![Built with React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-⚡-646cff?style=flat-square&logo=vite)](https://vitejs.dev/)
+<p align="center">
+  <a href="https://lorenzatomattia.github.io/stochastic-grid-simulator/">
+    <img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Live Demo"></a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-18-61dafb?logo=react" alt="React"></a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript" alt="TypeScript"></a>
+  <a href="https://vitejs.dev/">
+    <img src="https://img.shields.io/badge/Vite-%E2%9A%A1-646cff?logo=vite" alt="Vite"></a>
+</p>
 
 **[→ Try the live demo here!](https://lorenzatomattia.github.io/stochastic-grid-simulator/)**
 
@@ -98,17 +105,7 @@ Open `http://localhost:5173` and watch it burn. 🔥
 
 ---
 
-## Stack
-
-| Tool | Role |
-|------|------|
-| [React](https://react.dev/) | UI & rendering |
-| [TypeScript](https://www.typescriptlang.org/) | Type safety |
-| [Vite](https://vitejs.dev/) | Blazing fast dev server |
-
----
-
-## Concepts Explored *(no utility, lots of expandability)*
+## No utility, lots of expandability!
 
 - Cellular automata
 - Stochastic / probabilistic systems
