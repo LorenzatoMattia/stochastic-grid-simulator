@@ -68,31 +68,6 @@ for (let r = 0; r < size; r++) {
 
 ---
 
-## Getting Started
-
-1. **Clone**
-
-    ```bash
-    git clone https://github.com/lorenzatomattia/stochastic-grid-simulator.git
-    cd stochastic-grid-simulator
-    ```
-    
-3. **Install**
-
-    ```bash
-    npm install
-    ```
-    
-4. **Run**
-
-    ```bash
-    npm run dev
-    ```
-
-Open `http://localhost:5173` and watch it burn. 🔥
-
----
-
 ## No utility, lots of expandability!
 
 - Cellular automata
