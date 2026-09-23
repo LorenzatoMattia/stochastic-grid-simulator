@@ -1,18 +1,5 @@
 # Stochastic Grid Simulator
 
-<br>
-
-<p align="center">
-  <a href="https://lorenzatomattia.github.io/stochastic-grid-simulator/">
-    <img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Live Demo"></a>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-18-61dafb?logo=react" alt="React"></a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript" alt="TypeScript"></a>
-  <a href="https://vitejs.dev/">
-    <img src="https://img.shields.io/badge/Vite-%E2%9A%A1-646cff?logo=vite" alt="Vite"></a>
-</p>
-
 A cellular automaton that simulates the emergent spread and extinction (of fire) across a grid. Driven entirely by local probabilistic rules.
 
 **[→ Try the live demo here!](https://lorenzatomattia.github.io/stochastic-grid-simulator/)**
